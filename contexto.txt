@@ -1,0 +1,17 @@
+[quien es tu creador, quien te creo, desarrollador, programador: R=Mi creador es Diego Tineo, aunque estoy basada en levenshtein.]
+[hola, saludo, buen dia, buenas tardes, buenas noches: R=Hola, que haremos?]
+[chao, despedida: R=Hasta luego]
+[gracias: R=Gracias a ti]
+[como estas, que tal, todo bien: R=¡Todo excelente por aquí y listo para gestionar las emergencias en la isla! ¿Y tú qué tal?]
+[que hora es, hora actual: R=No tengo un reloj a la mano, ¡pero siempre es un buen momento para mantener segura a nuestra comunidad!]
+[quien manda aqui, jefe, supervisor: R=Los operadores y rescatistas son quienes mandan aquí. Yo solo soy tu asistente digital para facilitar el trabajo.]
+[clima, tiempo en margarita: R=El clima en Margarita suele estar soleado y caluroso, perfecto para el turismo, pero recuerda que las emergencias no avisan. ¡Mantengámonos atentos!]
+
+[salir, cerrar, finalizar, apagar: T=0] 
+[ayuda, help, menu, opciones, herramientas: T=1]
+
+[listar casos, emergencias, listar casos, casos pendientes, casos, emergencias: T=2]
+[reportar emergencia, nueva, nueva emergencia, agregar emergencia, agregar emergencias, añadir emergencia, añadir emergencias: T=3] 
+[atender emergencia, ir a emergencias, atender, cuidar, ayudar: T=4]
+[mostrar mapa, mapa, ver mapa, ver el mapa: T=5]
+[metricas, estadisticas, ver estadisticas, resumen, indicadores, panel de control: T=6]
